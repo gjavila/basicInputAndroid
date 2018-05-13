@@ -48,7 +48,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/price"
+        android:id="@+id/price_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="16sp"
@@ -57,7 +57,7 @@
         android:textColor="@android:color/black"
         />
     <TextView
-        android:id="@+id/price_text_view"
+        android:id="@+id/Order_Summary_Text_View"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="16sp"
